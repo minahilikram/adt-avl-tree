@@ -1,0 +1,5 @@
+groceries  10
+dog_run 2
+tidy_office 1
+find_keys 1
+read_papers 90
