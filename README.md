@@ -26,6 +26,6 @@ For a complete list of limitations, see [docs/analysis.md](https://github.com/mi
 
 ### References
 
-http://www.geeksforgeeks.org/archives/18009
-http://www.dutky.info/jeff/software/searchtree/searchtree.c.html
-http://anoopsmohan.blogspot.ca/2011/11/avl-tree-implementation-in-c.html
+- http://www.geeksforgeeks.org/archives/18009
+- http://www.dutky.info/jeff/software/searchtree/searchtree.c.html
+- http://anoopsmohan.blogspot.ca/2011/11/avl-tree-implementation-in-c.html
