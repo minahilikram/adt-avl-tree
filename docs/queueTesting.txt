@@ -1,9 +1,0 @@
-INFORMATION:
-    - creates queue
-    - added elements to the qeueu
-    - deleted elements
-    - destroyed queue
-
-TESTS:
-    1) after added elements to the queue I checked to see if they were added in queue by hand drawing
-    2) after deleted elements I checked to see if the nodes deleted were in queue by hand drawing
