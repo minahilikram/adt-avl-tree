@@ -17,7 +17,7 @@ For an example, see [src/main.c](https://github.com/minahilikram/adt-avl-tree/bl
 ```sh
 $ cd adt-queue/
 $ make
-$ make run OR $ make runTreeTests OR $ make runQueueTests
+$ make run  OR  $ make runTreeTests  OR  $ make runQueueTests
 ```
 
 ## Limitations
